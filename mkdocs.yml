@@ -1,0 +1,8 @@
+site_name: Documentación del Proyecto
+site_url: https://omarinstituto.github.io/Documentacion_Proyecto
+theme: readthedocs
+
+nav:
+  - Manual de Usuario: Manual_de_Usuario.md
+  - Guía de Referencia: Guia_de_Referencia.md
+  - Guía de Instalación: Guia_de_Instalacion.md
